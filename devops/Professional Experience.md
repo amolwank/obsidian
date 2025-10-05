@@ -1,0 +1,8 @@
+- Cloud Architect | Contact Center As A Service
+- Senior Team Lead | MultiCloud Management Platform (MCMP)
+- Deployment Engineer | Monitise Americas, Inc
+- Senior Team Lead | NapierLoop - Patient Referral Portal 
+- Team Lead | UrbanLife Web Portal & Consumer App
+- Team Lead | Cloud Assessment Tool (CAT)
+- Software Developer | infoTRAK (Aviation ERP)
+- Software Engineer | DMS Document Management System

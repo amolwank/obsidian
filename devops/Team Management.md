@@ -1,0 +1,3 @@
+In my previous role, I led a team of 5 engineers on an AWS Datapipe line project. I was responsible for task allocation, mentoring juniors, and ensuring smooth delivery. I followed Agile methodology with daily stand-ups and weekly spints planning.
+When we faced delays due to dependency issues, I coordinated with stakeholders, re-prioritized tasks, and ensured the project stayed on track. 
+Under my leadership, the team delivered the pipiline with 99.9 uptime, and we reduced manual data processing by 70%. I believe in leading by example, open communication, and motivating the team to achieve goals together.

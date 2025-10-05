@@ -1,0 +1,1 @@
+- You should need not know how to implement but you should able to guide the the team based on what resources we have.

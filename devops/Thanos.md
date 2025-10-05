@@ -1,0 +1,1 @@
+Thanos is a highly popular, open-source solutions that provides a set of components to create a highly available, long-term storage, multi-cluster Prometheus monitoring system.

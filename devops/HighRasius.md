@@ -1,0 +1,18 @@
+- AWS
+	- Layers in Lambda ([[Lambda Layers]])
+	- Explain/Configure [[ALB]]
+	- CloudFront - Explain?
+- Kuabernetes:
+	- Istio - Which mode you used?
+	- IRSA - How to apply?
+	- HPA - Explain?
+- Terraform:
+	-  Use of import command
+	- Dynamic block in terraform
+	- If i have to provision 10 Instances with different configuration, how to do it, diff ways
+- General Questions:
+	- How you spend time in office, management + coding?
+- Python:
+	- Some of importance modules in pythons
+	- How to read the json file
+ 

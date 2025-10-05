@@ -1,0 +1,3 @@
+###### Introduction:
+- AWS Bedrock is a fully managed service from Amazon web service (AWS) that allows you to build and scale Generative AI applications without worrying about managing the underlying AI models or infrastructure.
+- Instead of training big IA models yourself, you can use ready-made model (from Amazon and other companies like Anthropic, Cohere, Stability AI, Meta, Mistral ) though APIs. 

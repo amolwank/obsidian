@@ -1,0 +1,236 @@
+{
+  "main": {
+    "id": "dfd5034287cc49c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "19ab287dd9ca4088",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44156638b5bceb10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI Services in AWS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AI Services in AWS"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4a178aa2e5bb9be2",
+    "type": "split",
+    "children": [
+      {
+        "id": "6660f1eabd5b709f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ec182e813999115",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "270843d63b60b7ca",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "60b0c1b327f27983",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 243.5
+  },
+  "right": {
+    "id": "63543f16e1a07249",
+    "type": "split",
+    "children": [
+      {
+        "id": "4aa7113ddd57cfff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd01993cd970c44c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Terraform.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Terraform"
+            }
+          },
+          {
+            "id": "d36ac4a6642c96d6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Terraform.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Terraform"
+            }
+          },
+          {
+            "id": "e93b01bd242a5f93",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5fc32b38788a1818",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Terraform.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Terraform"
+            }
+          },
+          {
+            "id": "bad635e60e074194",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "bases:Create new base": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "gpt3-notes:GPT-3 Notes": false
+    }
+  },
+  "active": "44156638b5bceb10",
+  "lastOpenFiles": [
+    "Company Altimetrik-L2 Round.md",
+    "AI Services in AWS.md",
+    "What is StatefulSet in Kubernetes.md",
+    "_kubernetes/Kubernetes.md",
+    "StatefulSet.md",
+    "AWS Loadbalancer.md",
+    "AWS Control Tower to create a basic infrastructure.md",
+    "Company.md",
+    "Tell Me About Yourself.md",
+    "Reduce latency without changing region for global user.md",
+    "AWS Senior Level Interview Cheat Sheet.md",
+    "Manage Secrets Securely in Terraform.md",
+    "AWS Services/AWS.md",
+    "AWS Cheat Sheet.md",
+    "Cheat Sheet.md",
+    "CICD Interview Cheat Sheet.md",
+    "Terraform Cheat Sheet.md",
+    "AWS Systems Manager (SSM) Parameter Store.md",
+    "Kubernetes Cheat Sheet.md",
+    "Terraform.md",
+    "Huge State File.md",
+    "destroy.md",
+    "Terraform Workflow.md",
+    "terraform taint & terraform untaint.md",
+    "terraform import.md",
+    "Modules.md",
+    "Pasted image 20251003114401.png",
+    "Pasted image 20251003092101.png",
+    "Pasted image 20251002172154.png",
+    "AWS AI Services Overview.png",
+    "deepseek_mermaid_20250930_c5fedf(1).png",
+    "Pasted image 20250930104105.png",
+    "My Questions",
+    "Untitled.base",
+    "Global Index.base",
+    "Untitled 2.base",
+    "Untitled 1.base",
+    "Untitled.canvas",
+    "Pasted image 20250912182338.png",
+    "Pasted image 20250912182504.png",
+    "Pasted image 20250912183003.png",
+    "Pasted image 20250913111754.png",
+    "Untitled 3.base",
+    "_jd",
+    "_english",
+    "_dr strategies",
+    "_projects",
+    "Untitled 1.canvas"
+  ]
+}
