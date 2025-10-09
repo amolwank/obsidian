@@ -1,7 +1,6 @@
 ## 🔹 **30-sec Answer (Crisp)**
 
 - **Lambda** → Best for **event-driven, short-lived tasks** with no server management.
-    
 - **ECS (Elastic Container Service)** → Managed container orchestration, simple to use, integrates deeply with AWS. Great for **microservices and batch jobs**.
     
 - **EKS (Elastic Kubernetes Service)** → Managed Kubernetes, chosen when you need **multi-cloud portability or complex orchestration**.

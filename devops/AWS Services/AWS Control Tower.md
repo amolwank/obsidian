@@ -8,27 +8,19 @@
 ## **Why It’s Useful**
 
 1. **Multi-Account Setup Made Easy**
-    
     - Instead of manually creating AWS accounts, Control Tower gives you a **Landing Zone** with guardrails.
     - Example: Separate accounts for dev, test, and prod.
 2. **Security & Compliance**
-
     - Comes with **predefined guardrails** (policies).
     - Preventive guardrails (stop non-compliant actions).
     - Detective guardrails (detect/report policy violations).
-        
 3. **Governance at Scale**
-    
     - Centralized control of multiple accounts.
     - Apply **policies, logging, and monitoring** across all accounts.
-        
 4. **Standardization**
-    
     - Creates **VPCs, IAM roles, CloudTrail, AWS Config** automatically, based on best practices.
-        
-5. **Faster Onboarding**
-    
-    - New teams or projects can quickly get a new AWS account with all security baselines applied.
+5. **Faster Onboarding**    
+    - New teams or projects can quickly get a new AWS account with all security baselines applied.v
         
 ---
 ## **Use Cases**

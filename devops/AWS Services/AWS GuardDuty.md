@@ -13,9 +13,7 @@ Think of GuardDuty as a **24/7 security guard** for your AWS environment. It doe
 GuardDuty analyzes billions of events from multiple AWS data sources without you needing to manually configure them:
 
 1. **AWS CloudTrail Event Logs:** For suspicious API calls (e.g., an API call from a known malicious IP address, or a user doing something they never have before).
-    
 2. **VPC Flow Logs:** For unusual network traffic (e.g., communication with a known command-and-control server, or a port scan from within your VPC).
-    
 3. **DNS Logs:** For malicious domain activity (e.g., an EC2 instance querying a domain known for cryptocurrency mining).
     
 

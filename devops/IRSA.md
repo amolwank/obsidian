@@ -22,7 +22,7 @@ Why IRSA is Useful:
 
 ---
 ### **How it Works**
-1. Create an **IAM Role** with a trust policy for **EKS OIDC provider**.
+1. Create an **IAM Role** with a trust policy for **[[EKS OIDC provider]]**.
 2. Create a **Kubernetes Service Account** and annotate it with the IAM Role ARN.
 3. Pods using this service account automatically assume the IAM Role.
     

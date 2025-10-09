@@ -1,6 +1,7 @@
 Kubernetes is an open-source container orchestration platform.
 In simple terms its a manager for your containers. 
 
+[[Kubernetes Cheat Sheet]]
 ###### **Key Features:**
 - Automated Scheduling:
 - Self-Healing:

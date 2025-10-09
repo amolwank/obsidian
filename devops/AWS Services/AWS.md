@@ -2,6 +2,7 @@ Introduction:
 AWS(Amazon Web Services) is a cloud computing platform provided by Amazon.
 It offers on-demands services like computing power, storage, networking, databases analytics, machine learning, and more - all delivered over the network.
 
+[[AWS Security Services]]:
 ###### Key Points:
 - Launched: 2006 by Amazon.
 - Pay-as-you-go model: You pay only for what you use.

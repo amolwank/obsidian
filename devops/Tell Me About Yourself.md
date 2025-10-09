@@ -8,7 +8,7 @@ In my recent projects, I have designed custom data lakes using S3, along with se
 
 Introduction in point:
 - My name is **Amol Wankhede**, and I have **over 16 years of experience** in the IT industry.
-- I began my career as a **Java Developer** and gradually transitioned into **cloud technologies**.
+- I began my career as a **Java Developer** and gradually transitioned into cloud technologies.
 - Over the years, I have gained strong expertise in **AWS Cloud**, focusing on **infrastructure automation** using **Terraform**.
 - I have hands-on experience in **managing microservices** with **Kubernetes** and implementing **CI/CD pipelines** following **GitOps principles** using tools like **ArgoCD** and **GitHub Actions**.
 - Currently, I am working as a **Cloud Architect**, responsible for designing **scalable**, **secure**, and **highly available 3-tier applications** on AWS.

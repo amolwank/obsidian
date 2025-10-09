@@ -4,24 +4,81 @@
     "type": "split",
     "children": [
       {
-        "id": "19ab287dd9ca4088",
+        "id": "bd73d8b980877a4b",
         "type": "tabs",
         "children": [
           {
-            "id": "44156638b5bceb10",
+            "id": "5ba31a438b5b975b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI Services in AWS.md",
+                "file": "Prevent accidental deletion of critical resources.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AI Services in AWS"
+              "title": "Prevent accidental deletion of critical resources"
+            }
+          },
+          {
+            "id": "fea10fd03569c240",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AWS Services/3-Tier Application in AWS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3-Tier Application in AWS"
+            }
+          },
+          {
+            "id": "1013076b3d15f19e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AWS Services/AWS Control Tower to create a basic infrastructure.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AWS Control Tower to create a basic infrastructure"
+            }
+          },
+          {
+            "id": "a29a6ddeeb5d923e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PCI DSS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PCI DSS"
+            }
+          },
+          {
+            "id": "023ca1a37e89ae1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IRSA.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "IRSA"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -160,6 +217,16 @@
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
+          },
+          {
+            "id": "e4f23f958b51a268",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
         ],
         "currentTab": 4
@@ -182,45 +249,45 @@
       "gpt3-notes:GPT-3 Notes": false
     }
   },
-  "active": "44156638b5bceb10",
+  "active": "1013076b3d15f19e",
   "lastOpenFiles": [
-    "Company Altimetrik-L2 Round.md",
-    "AI Services in AWS.md",
-    "What is StatefulSet in Kubernetes.md",
+    "Microsoft AD with AWS User.md",
+    "AWS Services/3-Tier Application in AWS.md",
+    "What do you know about Altimetrik.md",
+    "Prevent accidental deletion of critical resources.md",
+    "IRSA.md",
+    "PCI DSS.md",
+    "EKS OIDC provider.md",
     "_kubernetes/Kubernetes.md",
-    "StatefulSet.md",
-    "AWS Loadbalancer.md",
-    "AWS Control Tower to create a basic infrastructure.md",
-    "Company.md",
-    "Tell Me About Yourself.md",
-    "Reduce latency without changing region for global user.md",
-    "AWS Senior Level Interview Cheat Sheet.md",
-    "Manage Secrets Securely in Terraform.md",
-    "AWS Services/AWS.md",
-    "AWS Cheat Sheet.md",
-    "Cheat Sheet.md",
-    "CICD Interview Cheat Sheet.md",
-    "Terraform Cheat Sheet.md",
-    "AWS Systems Manager (SSM) Parameter Store.md",
     "Kubernetes Cheat Sheet.md",
-    "Terraform.md",
-    "Huge State File.md",
-    "destroy.md",
-    "Terraform Workflow.md",
-    "terraform taint & terraform untaint.md",
-    "terraform import.md",
-    "Modules.md",
+    "Network Policies.md",
+    "CNI Plugins.md",
+    "landing zones.md",
+    "MCP Servers.md",
+    "AWS Services/AWS GuardDuty.md",
+    "AWS Services/AWS.md",
+    "AWS Security Services.md",
+    "AWS Key services for compliace.md",
+    "AWS Services/AWS Cheat Sheet.md",
+    "SOC 2 and HIPPA Compliance.md",
+    "HIPAA compliance.md",
+    "SOC 2.md",
+    "SOC 2 Compliance for Security.md",
+    "Cheat Sheet.md",
+    "Tell Me About Yourself.md",
+    "AWS Services/AWS Global Accelerator.md",
+    "AWS global backbone.md",
+    "Global Index.base",
+    "Untitled 2.base",
+    "Untitled 1.base",
     "Pasted image 20251003114401.png",
     "Pasted image 20251003092101.png",
     "Pasted image 20251002172154.png",
-    "AWS AI Services Overview.png",
+    "AWS Services/AWS AI Services Overview.png",
     "deepseek_mermaid_20250930_c5fedf(1).png",
     "Pasted image 20250930104105.png",
     "My Questions",
     "Untitled.base",
-    "Global Index.base",
-    "Untitled 2.base",
-    "Untitled 1.base",
     "Untitled.canvas",
     "Pasted image 20250912182338.png",
     "Pasted image 20250912182504.png",
