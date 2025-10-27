@@ -257,3 +257,21 @@ Ans: We carefully fail back; First, we sync data from DR Aurora back to the prim
 
 **Q: How to do you ensure security and IAM across clusters?**
 We enable IRSA in both clusters with OIDC providers per region, using least-privilege IAM roles. Cross-account/region roles are used for replication tasks. Secrets and encryption keys are managed with multi-region KMS keys for consistent access policies.
+
+
+
+Recent task performed on organization:
+Company was using on prem database in some of part of application.
+I propose to use Aurora database instead of on prem DB which was integral part of the application. and Build the report engine by desidning custom data lake in s3 where we use aws glue, athena and penhato tool as etl.
+For database migration we use aws dms service, for networking site to site vpn was configure along with aws direct connect service, applicatin migration was taking care of other team.
+
+---
+
+
+As part of a large-scale cloud modernization initiative, I contributed to two key areas — **database modernization** and **data lake implementation**.
+
+**1. Database Modernization:**  
+I proposed and led the migration of the company’s on-premises MySQL database to **Amazon Aurora MySQL**, which was a core component of the application stack. The goal was to improve scalability, availability, and performance while minimizing infrastructure management. The migration was executed using **AWS Database Migration Service (DMS)** to ensure minimal downtime and maintain data integrity. For secure hybrid connectivity, I configured a **Site-to-Site VPN** and **AWS Direct Connect** between the on-premises data center and AWS.
+
+**2. Custom Data Lake Implementation:**  
+To address business reporting and data archival requirements, I designed and implemented a **custom data lake on Amazon S3**. The data lake was integrated with **AWS Glue** for data cataloging and transformation, **Amazon Athena** for serverless querying, and **Pentaho** as the ETL and reporting layer. This setup streamlined analytics and enabled efficient, cost-effective data access across teams.

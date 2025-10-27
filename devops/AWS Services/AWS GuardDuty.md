@@ -43,12 +43,12 @@ GuardDuty analyzes billions of events from multiple AWS data sources without you
 
 ### Interview Cheat Sheet
 
-|Aspect|Description|
-|---|---|
-|**What it is**|An intelligent, managed threat detection service.|
-|**Core Function**|Continuously monitors for malicious and unauthorized behavior.|
-|**Key Benefit**|Provides actionable security findings with context and no operational overhead.|
-|**Data Sources**|CloudTrail Logs, VPC Flow Logs, DNS Logs.|
-|**Main Use Cases**|1. Detecting compromised resources  <br>2. Identifying reconnaissance activity  <br>3. Monitoring for anomalous behavior  <br>4. Meeting compliance needs.|
+| Aspect             | Description                                                                                                                                                |
+| ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **What it is**     | An intelligent, managed threat detection service.                                                                                                          |
+| **Core Function**  | Continuously monitors for malicious and unauthorized behavior.                                                                                             |
+| **Key Benefit**    | Provides actionable security findings with context and no operational overhead.                                                                            |
+| **Data Sources**   | CloudTrail Logs, VPC Flow Logs, DNS Logs.                                                                                                                  |
+| **Main Use Cases** | 1. Detecting compromised resources  <br>2. Identifying reconnaissance activity  <br>3. Monitoring for anomalous behavior  <br>4. Meeting compliance needs. |
 
 **Perfect for a quick, confident answer:** "GuardDuty is AWS's managed threat detection service. It uses ML and threat intelligence to continuously analyze your CloudTrail, VPC Flow, and DNS logs for malicious activity, like cryptocurrency mining, credential compromise, or reconnaissance. You simply enable it, and it starts delivering prioritized security findings."

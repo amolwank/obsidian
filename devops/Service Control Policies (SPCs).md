@@ -16,3 +16,5 @@
 - Restrict actions to only specific regions
 - Prevent disabling important security services like CloudTrail, Config, or GuardDuty.
 - Enforce that only approved services/resources are used.
+
+Video: https://www.youtube.com/watch?v=nhm2Yiz6qhs

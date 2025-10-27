@@ -67,15 +67,10 @@ You can:
     to create a VPC with:
     
     - **Public subnets** (for web tier)
-        
     - **Private subnets** (for app and DB tiers)
-        
     - **NAT Gateway** (for private subnet internet access)
-        
     - **Internet Gateway** (for public subnet)
-        
     - **Route tables** per subnet
-        
     - **Security groups / NACLs**
         
 
@@ -89,15 +84,10 @@ A secure **network foundation** ready for workloads.
 In a shared **Infrastructure or Network account**, deploy:
 
 - **AWS Transit Gateway / VPC Peering** – for network connectivity
-    
 - **AWS Systems Manager (SSM)** – for centralized access & patching
-    
 - **AWS CloudWatch & CloudTrail** – for monitoring & logging
-    
 - **AWS KMS** – for key management
-    
 - **AWS Config** – for compliance tracking
-    
 
 ---
 
@@ -106,25 +96,20 @@ In a shared **Infrastructure or Network account**, deploy:
 #### 🏗 **Tier 1 – Web Layer**
 
 - **ALB (Application Load Balancer)** in public subnets
-    
 - Targets web servers (e.g., ECS/EKS pods or EC2 instances)
     
 
 #### ⚙️ **Tier 2 – Application Layer**
 
 - ECS / EKS / EC2 instances in private subnets
-    
 - Auto Scaling enabled
-    
 - IAM roles with least privilege
     
 
 #### 🗄 **Tier 3 – Database Layer**
 
 - **Amazon RDS (MySQL/PostgreSQL)** in private subnets
-    
 - Multi-AZ for high availability
-    
 - Encrypted with **AWS KMS**
     
 
@@ -132,25 +117,18 @@ In a shared **Infrastructure or Network account**, deploy:
 
 ### **7. Add Governance and Monitoring**
 
-- Use **AWS Config rules** for compliance (e.g., ensure encryption, no open ports).
-    
+- Use **AWS Config rules** for compliance (e.g., ensure encryption, no open ports).    
 - Use **AWS CloudTrail** + **S3 (log archive)** for audit logs.
-    
 - Use **AWS Security Hub**, **GuardDuty**, **Inspector** for continuous security monitoring.
-    
 - Apply **Guardrails** (Control Tower feature) for mandatory compliance.
-    
 
 ---
 
 ### **8. Implement CI/CD (Optional but Best Practice)**
 
-- Deploy workloads using **CodePipeline / GitHub Actions / ArgoCD**
-    
+- Deploy workloads using **CodePipeline / GitHub Actions / ArgoCD**    
 - Store Terraform/IaC templates in **CodeCommit or GitHub**
-    
 - Use **AFT (Account Factory for Terraform)** to automate provisioning in all accounts
-    
 
 ---
 
@@ -180,13 +158,9 @@ In a shared **Infrastructure or Network account**, deploy:
 ## 🧠 **Key Benefits**
 
 - Automated setup → governed & compliant environment
-    
 - Separation of workloads & accounts → isolation & security
-    
 - Centralized logging & audit → better visibility
-    
 - Scalable multi-account strategy → ready for enterprise expansion
-    
 
 ---
 

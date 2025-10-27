@@ -9,6 +9,10 @@ It offers on-demands services like computing power, storage, networking, databas
 - Global Infrastructure: AWS has data centers worldwide (called Regions and Availability Zones)
 - Scalability: can scale up or down resources quickly based on demand.
 - Security:Provide identity management, encryption, compliance certificates.
+
+[[Well Architected Framework]]
+
+[[API Gateway and LoadBalancer]]
 ###### Major AWS Services:
 - Compute
 	- [[EC2]] (Elastic Compute Cloud) -> Virtual Server

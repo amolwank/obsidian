@@ -3,9 +3,7 @@
 ### 🧩 **What it is:**
 
 - A **security and privacy compliance framework** created by **AICPA** (American Institute of CPAs).
-    
 - It checks **how well an organization protects customer data** stored or processed in the cloud.
-    
 ---
 ### 🧠 **Main Purpose:**
 

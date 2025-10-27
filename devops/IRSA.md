@@ -5,7 +5,7 @@ It's a way to let Kubernetes pods running on Amazon EKS securely access AWS serv
 How IRSA works?
 1. You create an IAM Role with the necessary AWS permissions.
 2. You  links that IAM Role to a Kubernetes Service Account using an annotation.
-3. When a pod runs under that Service Account, AWS automatically provides Temporary credential via the EKS OIDC (OpenID Connect ) provider.
+3. When a pod runs under that Service Account, AWS automatically provides Temporary credential via the [[EKS OIDC provider]] (OpenID Connect ).
 4. The pod can then securely call AWS APIs (e.g. read/write to S3) without storing access keys.
 
 Why IRSA is Useful:

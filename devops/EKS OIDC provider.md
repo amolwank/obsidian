@@ -10,7 +10,7 @@
 ### 🏗️ Why it’s used
 
 Normally, AWS IAM Roles are attached only to EC2 instances.  
-With OIDC, **EKS can issue temporary credentials directly to pods** using **IAM Roles for Service Accounts (IRSA)**.
+With OIDC (OpenID Connect), **EKS can issue temporary credentials directly to pods** using **IAM Roles for Service Accounts (IRSA)**.
 
 So instead of giving the whole node access → only the specific pod/service account gets permissions.
 

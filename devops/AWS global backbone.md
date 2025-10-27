@@ -8,10 +8,8 @@
 
 **What it is:**
 
-- **Private fiber network** owned/operated by AWS
-    
+- **Private fiber network** owned/operated by AWS    
 - **Globally redundant** with multiple redundant paths
-    
 - Connects all **31 regions, 99 AZs, and 600+ edge locations**
     
 
@@ -31,11 +29,8 @@
 **How it Benefits You:**
 
 - **Fast inter-region transfer** (e.g., S3 Cross-Region Replication)
-    
 - **Global Accelerator** - traffic rides backbone to nearest region
-    
 - **Private connectivity** - no public internet for AWS services
-    
 - **Consistent performance** - predictable latency and throughput
     
 

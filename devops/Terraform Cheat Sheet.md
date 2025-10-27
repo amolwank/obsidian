@@ -145,7 +145,7 @@
 
 - **Terraform Cloud/Enterprise**: Remote execution, RBAC, Sentinel policies.
     
-- **Policy as Code:** Sentinel or OPA to enforce compliance (e.g., no public S3).
+- **Policy as Code:** [[Sentinel]] or OPA to enforce compliance (e.g., no public S3).
     
 - **Dynamic Blocks:** For repetitive nested configs.
     
